@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.exe
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.deps.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\ref\Exercicio Fixacao Interface.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\bin\Debug\net5.0\Exercicio Fixacao Interface.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\ref\Exercicio Fixacao Interface.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Interface\Exercicio Fixacao Interface\obj\Debug\net5.0\Exercicio Fixacao Interface.genruntimeconfig.cache
